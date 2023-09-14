@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou a Valéria!! 👋</h1>
 <h3 align="center">Sou uma desenvolvedora Full Stack brasileira</h3>
 <br>
-<img align="right" alt="GIF" src="https://68.media.tumblr.com/5d743a3a7ad4a620bf57077fab484096/tumblr_oplnmzMkRS1uob8tfo1_540.gif" />
+<img align="center" alt="GIF" src="https://68.media.tumblr.com/5d743a3a7ad4a620bf57077fab484096/tumblr_oplnmzMkRS1uob8tfo1_540.gif" />
 <br>
 - 🌱 Estou atualmente aprendendo **.NET, Microsoft SQL Server e React.**
 
