@@ -1,12 +1,19 @@
 <h1 align="center">Olá, sou a Valéria!! 👋</h1>
 <h3 align="center">Sou uma desenvolvedora Full Stack brasileira</h3>
 <br>
-<img align="center" alt="GIF" src="https://68.media.tumblr.com/5d743a3a7ad4a620bf57077fab484096/tumblr_oplnmzMkRS1uob8tfo1_540.gif" />
+<p align="center">
+<img alt="GIF" src="https://68.media.tumblr.com/5d743a3a7ad4a620bf57077fab484096/tumblr_oplnmzMkRS1uob8tfo1_540.gif" />
+</p>
 <br>
+
+  
 - 🌱 Estou atualmente aprendendo **.NET, Microsoft SQL Server e React.**
 
 - 💬 Me pergunte sobre **qualquer coisa, adoro ajudar. :)**
 
+
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/val%c3%a9ria-carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="val%c3%a9ria-carvalho" height="30" width="40" /></a>
